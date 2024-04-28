@@ -52,15 +52,8 @@ print ( "Antonyms : " ,set(antonyms) )
 
 <H3>Output</H3>
 
- Sample Input:
+![324519833-5fe80319-0ebe-4c9c-ba25-d429072cb007](https://github.com/Gokul0117/Ex-6--AAI/assets/121165938/d280a59a-dc90-49f9-9506-b2eb5a4f19eb)
 
- ![image](https://github.com/Gokul0117/Ex-6--AAI/assets/121165938/05676d1d-1113-4d0d-84a3-9a5ec54e1b52)
-
-Sample Output:
-
-![image](https://github.com/Gokul0117/Ex-6--AAI/assets/121165938/dbd9a263-0fe7-46d5-a731-5002550aba54)
-
-![324478457-096f3abf-59db-418d-ba13-f52af2f25471](https://github.com/Gokul0117/Ex-6--AAI/assets/121165938/89e95b4f-62ab-463a-9598-7b373127641f)
 
 <H3>Result:</H3>
 Thus ,the program to perform the Parts of Speech identification and Synonymis executed sucessfully.
